@@ -1,0 +1,29 @@
+{
+  "name": "https://github.com/VladShish/CakePHP-Favicons",
+  "description": "Plugin for saving favicons images in your project",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "cakephp",
+    "Favicons",
+    "plugin"
+  ],
+  "homepage": "https://github.com/VladShish/CakePHP-Favicons",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vlad Shish",
+      "email": "vladshish89@gmail.com",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*",
+  },
+  "support": {
+    "email": "vladshish89@gmail.com",
+    "source": "https://github.com/VladShish/CakePHP-Favicons"
+  },
+  "extra": {
+    "installer-name": "ArrayObjectA"
+  }
+}
