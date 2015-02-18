@@ -1,5 +1,5 @@
 {
-  "name": "https://github.com/vladshish/cakephp-favicon-plugin",
+  "name": "vladshish/cakephp-favicon-plugin",
   "description": "Plugin for saving favicons images in your project",
   "type": "cakephp-plugin",
   "keywords": [
