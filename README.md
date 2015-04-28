@@ -5,3 +5,4 @@
 ```
 CakePlugin::load('Favicon', array('bootstrap' => true));
 ```
+
